@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css?family=Product+Sans');
+
+h1{
+    color:red;
+}
+.box{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 2.8em;
+    font-family: 'Product Sans',sans-serif;
+    
+}
+/*input[type=text] {
+    width: 130px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+input[type=text]:focus {
+    width: 100%;
+}*/
+.sec1{
+    text-align: right;
+    font-family: 'Product Sans',sans-serif;
+    color: rgb(151, 151, 151);
+    font-size: 0.8em;
+}
+.ac{
+    color: rgb(151, 151, 151);
+    text-decoration: none;
+}
+.ac:hover{
+    text-decoration:underline;
+}
+.at:hover{
+    color:red;  
+    text-decoration: none;
+}
+.at{
+    text-decoration: none;
+    color: rgb(151, 151, 151);
+}
+
+.b{
+    color:rgb(21, 95, 233);
+    border-radius: 2em;
+    width: 9em;
+    background-color: white;
+    padding:0.6em;
+    position: absolute;
+    bottom: 0.5em;
+    right: 2em;
+    box-shadow: 0 8px 16px 0 rgba(192, 192, 192, 0.2), 0 6px 20px 0 rgba(197, 193, 193, 0.19);
+}
+.b:hover{
+    background-color: rgb(216, 216, 216);
+}
+input{
+    border-radius: 100px;
+    width: 500px;
+    padding: 1.2em;
+}
+/* .ser{
+    background-image: url(../2.png);
+    background-repeat: no-repeat;
+    position: fixed;
+    float:right; 
+    width: 10em;
+    height: 10em; 
+}*/
+.ic{
+    font-size:0.5em !important;
+    color: rgb(94, 89, 89);
+}
+.mid{
+    text-align: center;
+    font-size: 3em;
+    font-family: 'Product Sans',sans-serif;
+    word-spacing: -2.1rem;
+}
+.f1{
+    color:blue;
+}
+.f2{
+    color:red;
+}
+
+.f3{
+    color:orange;
+}
+
+.f4{
+    color:blue;
+}
+
+.f5{
+    color:green;
+}
+
+.f6{
+    color:red;
+}
+/* .sec{
+    background-color: black;
+    border-radius: 1em;
+    border-width: 2em;
+    
+    padding:0.5rem;    
+} */
+.ser{
+    margin-top: -2em;
+    box-shadow: 0 8px 16px 0 rgba(105, 104, 104, 0.2), 0 6px 20px 0 rgba(197, 193, 193, 0.19);
+    border: none;
+    background-color: white;
+    padding-left: 4em;
+}
+textarea:focus, input:focus{
+    outline: 0;
+}
+button:focus, input:focus{
+    outline: 0;
+}
+#micICO{
+    margin-left: -0.7em;
+    position: absolute;
+    margin-top:0.1em;
+}
+.cs{
+    float:right;
+}
+#searchICO{
+    position: absolute;
+    margin-top: 1.2em;
+    left: 31vw;
+}
+.box2{
+    background-color: white;
+
+    padding:0.5rem;
+}
+ul{
+    list-style: none;
+}
+ul>li{
+    display: inline-block;
+}
+.card{
+    background-color: white;
+    width: 2em;
+    height: 2em;
+    text-align: center;
+}
+.card:hover{
+    background-color: rgba(0,0,0,0.1);
+}
+h6{
+    font-size: 0.6rem;
+}
+.g{
+   text-decoration: none;
+   color: black;
+}
+/* .g:hover{
+    color:rgb(95, 95, 95 ,2);
+    box-shadow: 0 8px 16px 0 rgba(105, 104, 104, 0.2), 0 6px 20px 0 rgba(197, 193, 193, 0.19);
+} */
